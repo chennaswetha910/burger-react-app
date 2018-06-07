@@ -1,0 +1,24 @@
+.header {
+  background-color: #FF5733;
+}
+.appLogo {
+    height: 60px;
+}
+.burgerBuild {
+  float: right;
+  margin-right: 20px;
+  font-weight: bold;
+  color:white;
+  line-height: 60px;
+  text-align: center;
+}
+.burgerDiv {
+  text-align: center;
+}
+.burgerImg {
+  height:200px;
+}
+.btnCounter {
+  font-size: 24px;
+  padding: 0 10px;
+}
